@@ -1,0 +1,68 @@
+.item {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 20px;
+    height: 250px;
+    flex-basis: 220px;
+}
+
+.image {
+    width: 120px;
+    height: 120px;
+    border-radius: 30px;
+    margin: 30px auto 10px auto;
+}
+
+.title {
+    margin-left: 10px;
+    margin-bottom: 0;
+}
+
+.bottom {
+    display: flex;
+}
+
+.price {
+    margin-left: 10px;
+    margin-top: 0;
+}
+
+.symbol {
+    font-size: 14px;
+    color: orange;
+}
+
+.action {
+    margin-left: auto;
+    order: 2;
+    margin-right: 20px;
+    background-color: rgb(250, 221, 166);
+    height: 30px;
+    margin-top: 5px;
+    border-radius: 20px;
+}
+
+.action_item {
+    height: 20px;
+    width: 20px;
+    border-radius:15px;
+    border: none;
+    font-size: 15px;
+    margin: 5px;
+    color: white;
+    background-color: rgb(255, 136, 0);
+}
+
+.button {
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+    border: none;
+    font-size: 25px;
+    color: white;
+    background-color: orange;
+    margin-left: auto;
+    order: 2;
+    margin-right: 20px;
+}

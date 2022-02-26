@@ -1,0 +1,161 @@
+{
+    "catagories": [
+        {
+            "id": "c1",
+            "name": "Pizza",
+            "img": "https://img.icons8.com/fluency/48/000000/pizza.png"
+        },
+        {
+            "id": "c2",
+            "name": "Burger",
+            "img": "https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/48/000000/external-burger-fast-food-vitaliy-gorbachev-lineal-color-vitaly-gorbachev-1.png"
+        },
+        {
+            "id": "c3",
+            "name": "Hotdog",
+            "img": "https://img.icons8.com/emoji/48/000000/hot-dog-emoji.png"
+        },
+        {
+            "id": "c4",
+            "name": "Taco",
+            "img": "https://img.icons8.com/emoji/48/000000/taco-emoji.png"
+        },
+        {
+            "id": "c5",
+            "name": "Snacks",
+            "img": "https://img.icons8.com/color/48/000000/kawaii-french-fries.png"
+        },
+        {
+            "id": "c6",
+            "name": "Drink",
+            "img": "https://img.icons8.com/office/40/000000/cocktail.png"
+        }
+    ],
+
+    "pizza" : [
+        {
+            "id": "p1",
+            "name": "Mushroom Pizza",
+            "img": "./images/pizza1.jpeg",
+            "price" : 120.34
+        },
+        {
+            "id": "p2",
+            "name": "Cheese Pizza",
+            "img": "./images/pizza2.jpeg",
+            "price" : 220.64
+        },
+        {
+            "id": "p3",
+            "name": "Veggie Pizza",
+            "img": "./images/pizza3.jpeg",
+            "price" : 180.37
+        }
+    ],
+
+    "burger" : [
+        {
+            "id": "b1",
+            "name": "Mushroom Burger",
+            "img": "./images/burger1.jpeg",
+            "price" : 120.34
+        },
+        {
+            "id": "p2",
+            "name": "Cheese Burger",
+            "img": "./images/burger2.jpeg",
+            "price" : 220.64
+        },
+        {
+            "id": "p3",
+            "name": "Corn Burger",
+            "img": "./images/burger3.jpeg",
+            "price" : 180.37
+        }
+    ],
+
+    "hotdog" : [
+        {
+            "id": "h1",
+            "name": "Mushroom Hotdog",
+            "img": "./images/hotdog1.jpeg",
+            "price" : 180.37
+        },
+        {
+            "id": "h2",
+            "name": "Stuffed Hotdog",
+            "img": "./images/hotdog2.jpeg",
+            "price" : 220.64
+        },
+        {
+            "id": "h3",
+            "name": "Corn Hotdog",
+            "img": "./images/hotdog3.jpeg",
+            "price" : 320.78
+        }
+    ],
+
+    "taco" : [
+        {
+            "id": "t1",
+            "name": "Stuffed Taco",
+            "img": "./images/taco1.jpeg",
+            "price" : 280.37
+        },
+        {
+            "id": "t2",
+            "name": "Cheese Taco",
+            "img": "./images/taco2.jpeg",
+            "price" : 225.44
+        },
+        {
+            "id": "t3",
+            "name": "Corn Taco",
+            "img": "./images/taco3.jpeg",
+            "price" : 150.78
+        }
+    ],
+
+    "snacks" : [
+        {
+            "id": "s1",
+            "name": "Plain Fries",
+            "img": "./images/snack1.jpeg",
+            "price" : 180.39
+        },
+        {
+            "id": "s2",
+            "name": "Cheese Fries",
+            "img": "./images/snack2.jpeg",
+            "price" : 225.44
+        },
+        {
+            "id": "s3",
+            "name": "Peri peri Fries",
+            "img": "./images/snack3.jpeg",
+            "price" : 150.78
+        }
+    ],
+
+    "drink" : [
+        {
+            "id": "d1",
+            "name": "Lemonade",
+            "img": "./images/drink1.jpeg",
+            "price" : 180.39
+        },
+        {
+            "id": "d2",
+            "name": "Watermelon Juice",
+            "img": "./images/drink2.jpeg",
+            "price" : 225.44
+        },
+        {
+            "id": "d3",
+            "name": "Chocolate Shake",
+            "img": "./images/drink3.jpeg",
+            "price" : 350.78
+        }
+    ]
+
+}

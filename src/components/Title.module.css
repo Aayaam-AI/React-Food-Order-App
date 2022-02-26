@@ -1,0 +1,23 @@
+.header {
+  width: 90%;
+  margin: 10px auto auto 30px;
+}
+
+.title {
+  font-family: "Aclonica";
+  font-size: 40px;
+  color: rgb(255, 136, 0);
+  width: 200px;
+  display: inline-block;
+  margin-left: 5px;
+}
+
+.input {
+  float: right;
+  margin: 25px 0 0 10px;
+  width: 300px;
+  height: 30px;
+  border-radius: 25px;
+  border: none;
+  padding: 10px;
+}

@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(241, 208, 145);
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.main_container {
+  background-color: white;
+  width: 70%;
+  margin: 60px auto;
+  height: 800px;
+  border-radius: 30px;
+  display: flex;
+}
+
+.left {
+  flex-basis: 7%;
+}
+
+.right {
+  flex-basis: 30%;
+}
+
+.middle {
+  flex-basis: 63%;
+  background-color: rgb(248, 246, 246);
+}
+

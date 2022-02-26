@@ -1,0 +1,38 @@
+.item {
+    width: 95%;
+    height: 80px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    box-shadow: 0 0 8px orange;
+    border-radius: 25px;
+    display: flex;
+    overflow: hidden;
+    justify-content: space-between;
+    font-size: 15px;
+}
+
+.symbol {
+    font-size: 15px;
+    color: orange;
+}
+
+.image {
+    height: 100%;
+    width: 70px;
+    margin-right: 10px;
+}
+
+.title {
+    margin-top: 25px;
+    margin-bottom: 0;
+}
+
+.quantity {
+    margin-top: 0;
+}
+
+.price {
+    padding-top: 15px;
+    margin-right: 10px;
+}
