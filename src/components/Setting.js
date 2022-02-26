@@ -61,11 +61,7 @@ const Setting = (props) => {
 
     if (phoneNumber.length !== 10 || phoneNumber < 0) {
       setPhoneNumberError("Enter Valid Phone Number");
-    } else if (
-      firstNameError.length === 0 &&
-      lastNameError.length === 0 &&
-      phoneNumberError.length === 0
-    ) {
+    } else if (firstNameError.length === 0 && lastNameError.length === 0) {
       window.alert(
         JSON.stringify({
           Name: `${firstName} ${lastName}`,
